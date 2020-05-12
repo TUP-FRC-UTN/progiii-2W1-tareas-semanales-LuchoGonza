@@ -1,0 +1,41 @@
+
+#principal{
+
+
+  color: blue;
+  position: relative;
+  top: 5px;
+  left: 20px;
+  border: 1px;
+
+
+
+}
+body{
+
+background-color: blanchedalmond ;
+}
+
+#Foto{
+
+  /* float: left; */
+  position: absolute;
+  top:  20px;
+  left: 450px;
+  margin: 1px;
+}
+#experiencia{
+
+  color: black;
+  /* border: black 5px solid; */
+  width: 450px;
+  height: 180px;
+  position: relative ;
+  top: 5px;
+  left: 10px;
+  overflow: hidden;
+  border: 2px;
+
+
+
+}
